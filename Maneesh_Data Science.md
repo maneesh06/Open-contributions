@@ -11,6 +11,7 @@
 * Evaluation Metrics(Precision, recall, F1 score)
 * Classification
 * Bias and Variance trade off
+* Model Selection
 
 
 

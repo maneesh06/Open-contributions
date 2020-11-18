@@ -12,6 +12,15 @@
 * Classification
 * Bias and Variance trade off
 * Model Selection
+* Package
+    * Pandas
+    * Numpy
+    * OpenCV
+    * Matplotlib
+    * Seaborn
+    * Scikit Learn
+    * Scipy.Stats
+    
 
 
 
